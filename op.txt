@@ -1,0 +1,262 @@
+API user info:
+Name: Sachin Bhardwaj
+Location: New Delhi, India
+Friends: 45
+--------------------------Loaded Tweet from twitter.com-------------------------
+@msisodia @ArvindKejriwal @TenzingLamsang SIR can you please share days wise AQI data of of last oct 19 month of wh… https://t.co/qfEnnPG7a2
+
+        *********Analysis of this tweet : **********
+
+Overall tweet is POSITIVE!,Polarity value is  0.35
+
+Overall tweet is Objective!,Subjectivity value is  0.48333333333333334
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.35, subjectivity=0.48333333333333334, assessments=[(['wise'], 0.7, 0.9, None), (['last'], 0.0, 0.06666666666666667, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+Why stubble burning in Punjab and Haryana  is the real culprit behind #DelhiPollution. 
+
+@ArvindKejriwal… https://t.co/1n9xnZTvGo
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Negative!,Polarity value is  -0.1
+
+Overall Tweet is Neutral towards the topic!,Subjectivity value is  0.5
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=-0.1, subjectivity=0.5, assessments=[(['real'], 0.2, 0.30000000000000004, None), (['behind'], -0.4, 0.7, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+@KirtiAzaad @with_rahul_ji @ArvindKejriwal You are still alive?
+
+        *********Analysis of this tweet : **********
+
+Overall tweet is POSITIVE!,Polarity value is  0.1
+
+Overall tweet is Objective!,Subjectivity value is  0.4
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.1, subjectivity=0.4, assessments=[(['alive'], 0.1, 0.4, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+RT @PrakashJavdekar: It is unfortunate that Delhi CM @ArvindKejriwal  is politicising the issue of #AirPollution &amp; instigating students to…
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Negative!,Polarity value is  -0.5
+
+Overall Tweet is Very Subjective!,Subjectivity value is  1.0
+
+Overall Tweet is Subjective!, Subjectivity value is  1.0
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=-0.5, subjectivity=1.0, assessments=[(['unfortunate'], -0.5, 1.0, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+RT @ARanganathan72: Pollution (PM2.5) INCREASED during BOTH #OddEven schemes, that were brought in by @ArvindKejriwal to reduce JUST 2% of…
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Neutral!,Polarity value is  0.0
+
+Overll Tweet is Very Objective!,Subjectivity value is  0.0
+
+Overall tweet is Objective!,Subjectivity value is  0.0
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.0, subjectivity=0.0, assessments=[])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+RT @rsuri54: Dear @ArvindKejriwal regret duplicitous ways, Dwarka Expressway Pkg 1 decimating trees, Tree Authority, Forest Dept @govt_delh…
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Neutral!,Polarity value is  0.0
+
+Overll Tweet is Very Objective!,Subjectivity value is  0.0
+
+Overall tweet is Objective!,Subjectivity value is  0.0
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.0, subjectivity=0.0, assessments=[])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+RT @rajkshroff: @KirtiAzaad @ArvindKejriwal Only morons belive in 20 days Delhi produced so much pollution...As he has no control on air..…
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Negative!,Polarity value is  -0.20000000000000004
+
+Overall Tweet is Subjective!, Subjectivity value is  0.7333333333333334
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=-0.20000000000000004, subjectivity=0.7333333333333334, assessments=[(['only'], 0.0, 1.0, None), (['morons'], -0.8, 1.0, 'profanity'), (['much'], 0.2, 0.2, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+Air quality in Delhi seriously needs everyone's attention 
+Only Delhites and @ArvindKejriwal should not be blamed.… https://t.co/v723OGWxay
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Negative!,Polarity value is  -0.16666666666666666
+
+Overall Tweet is Subjective!, Subjectivity value is  0.8333333333333333
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.8333333333333333, assessments=[(['seriously'], -0.3333333333333333, 0.6666666666666666, None), (['only'], 0.0, 1.0, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+@latestly @Olacabs @Uber @ArvindKejriwal @AamAadmiParty Odd &amp; even                
+ Start to Delhi… https://t.co/VhEAa8I5GX
+
+        *********Analysis of this tweet : **********
+
+Overall tweet is POSITIVE!,Polarity value is  0.16666666666666669
+
+Overall Tweet is Subjective!, Subjectivity value is  0.575
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.16666666666666669, subjectivity=0.575, assessments=[(['latestly'], 0.5, 0.9, None), (['odd'], -0.16666666666666666, 0.25, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+RT @ArvindKejriwal: Delhi govt's free transport for women scheme is a landmark step towards women empowerment
+
+https://t.co/PUny11Q5L4
+
+        *********Analysis of this tweet : **********
+
+Overall tweet is POSITIVE!,Polarity value is  0.4
+
+Overall Tweet is Subjective!, Subjectivity value is  0.8
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.4, subjectivity=0.8, assessments=[(['free'], 0.4, 0.8, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+@msisodia @ArvindKejriwal @TenzingLamsang Please buy paraali from farmers and use it as fuel/manure, if centre isn'… https://t.co/YtRmbkWoeB
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Neutral!,Polarity value is  0.0
+
+Overll Tweet is Very Objective!,Subjectivity value is  0.0
+
+Overall tweet is Objective!,Subjectivity value is  0.0
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.0, subjectivity=0.0, assessments=[])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+@aajtak @ManojTiwariMP @ArvindKejriwal Be what may but We Delhi people have enjoyed great relief from Electricity a… https://t.co/SPqYp2N0V0
+
+        *********Analysis of this tweet : **********
+
+Overall tweet is POSITIVE!,Polarity value is  0.65
+
+Overall Tweet is Subjective!, Subjectivity value is  0.725
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.65, subjectivity=0.725, assessments=[(['enjoyed'], 0.5, 0.7, None), (['great'], 0.8, 0.75, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+@ShashiTharoor Sad part, this is not Delhi's fault! @ArvindKejriwal Should Delhi pollution control board and health… https://t.co/ikFvuP1wmN
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Negative!,Polarity value is  -0.625
+
+Overall Tweet is Very Subjective!,Subjectivity value is  1.0
+
+Overall Tweet is Subjective!, Subjectivity value is  1.0
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=-0.625, subjectivity=1.0, assessments=[(['sad', '!'], -0.625, 1.0, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+We are number 1. And number is far far behind. Needless to say way more messed up. @ArvindKejriwal @PrakashJavdekar… https://t.co/l2FVCS8pKB
+
+        *********Analysis of this tweet : **********
+
+Overall Tweet is Negative!,Polarity value is  -0.039999999999999994
+
+Overall Tweet is Subjective!, Subjectivity value is  0.8400000000000001
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=-0.039999999999999994, subjectivity=0.8400000000000001, assessments=[(['far'], 0.1, 1.0, None), (['far'], 0.1, 1.0, None), (['behind'], -0.4, 0.7, None), (['needless'], -0.5, 1.0, None), (['more'], 0.5, 0.5, None)])
+
+********************************************************************************
+
+
+--------------------------Loaded Tweet from twitter.com-------------------------
+RT @ArvindKejriwal: Delhi govt's free transport for women scheme is a landmark step towards women empowerment
+
+https://t.co/PUny11Q5L4
+
+        *********Analysis of this tweet : **********
+
+Overall tweet is POSITIVE!,Polarity value is  0.4
+
+Overall Tweet is Subjective!, Subjectivity value is  0.8
+
+Overall Sentiment Analysis along with special word Analysis for this Tweet is :
+
+Sentiment(polarity=0.4, subjectivity=0.8, assessments=[(['free'], 0.4, 0.8, None)])
+
+********************************************************************************
+
+
